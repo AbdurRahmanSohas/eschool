@@ -1,0 +1,399 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*header starat*/
+    header{
+        padding: 5px 0;
+    }
+    .logo{
+        width: 170px;
+    }
+.menu ul li a {
+    margin-bottom: 5px;
+    padding: 0 10px !important;
+}
+/*banner start*/
+.banner{
+    padding: 15px 0 46px;
+}
+.b_text{
+    text-align: center;
+}
+.b_h1{
+    margin: 10px 0 10px;
+    font-size: 28px;
+    line-height: 40px;
+}
+.b_p2{
+    padding: 0 0px;
+    line-height: 30px;
+}
+.b_img{
+    margin-bottom: 25px;
+    padding: 0 10px;
+}
+.b_btn{
+    margin-top: 34px;
+    padding: 12px 22px !important;
+}
+/*banner end*/
+  /*feature start*/
+  .feature{
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.s_feature{
+    margin-top: 24px;
+    padding: 55px 28px;
+}
+.f_h2 {
+    font-size: 22px;
+}
+/*feature end*/
+/*courses start*/
+.feature {
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+.c_h1 {
+    margin-bottom: 6px !important;
+    font-size: 26px;
+    }
+.c_item {
+    margin-top: 24px;
+    padding: 15px 13px;
+}
+.calender ul li span, .people ul li span {
+    font-weight: 400 !important;
+    line-height: 24px;
+}
+.c_li{
+    font-size: 15px !important;
+    margin: 0px !important;
+}
+.courses {
+    padding-bottom: 30px;
+}
+/*testimoni start*/
+.slaid{
+    margin-top: 22px;
+}
+.testimonial{
+    margin-bottom: 50px;
+}
+ /*footer top*/
+ .ft_text{
+    margin-left: 26px;
+    margin-top: 0px;
+}.ft_text3{
+    margin-top: 24px;
+    margin-left: 112px;
+}
+.ft_text2{
+    margin-top: 24px;
+    margin-left: 112px;
+}
+.ft_text1{
+    margin-top: 44px;
+    margin-left: 112px;
+}
+.footer_top {
+   min-height: 860px;
+}
+.h_t {
+    margin-top: 25px;
+}
+footer {
+    height: 55px !important;
+}
+p a{
+    font-size: 14px;
+}
+.c_btn {
+    width: 100%;
+    margin: 16px auto;
+}
+.c_p {
+    text-align: center;
+}
+.c_h2 {
+    text-align: center;
+}
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a {
+    margin-bottom: 5px;
+    padding: 0 10px !important;
+}
+/*banner start*/
+.banner{
+    padding: 15px 0 60px;
+}
+.b_text{
+    text-align: center;
+}
+.b_h1{
+    margin: 10px 0 10px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.b_p2{
+    padding: 0 55px;
+    line-height: 30px;
+}
+.b_img{
+    margin-bottom: 30px;
+    padding: 0 80px;
+}
+/*banner end*/
+  /*feature start*/
+  .feature{
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.s_feature{
+    margin-top: 24px;
+    padding: 55px 28px;
+}
+/*feature end*/
+/*courses start*/
+.c_item {
+    margin-top: 24px;
+    padding: 25px 93px;
+}
+.c_h1 {
+    margin-bottom: 22px !important;
+    font-size: 25px;
+    }
+.courses {
+    padding-bottom: 34px;
+}
+/*testimoni start*/
+.testimonial {
+    margin-bottom: 55px;
+}
+ /*footer top*/
+ .ft_text{
+    margin-left: 60px;
+    margin-top: 0px;
+}.ft_text3{
+    margin-top: 24px;
+    margin-left: 60px;
+}
+.ft_text2{
+    margin-top: 24px;
+    margin-left: 60px;
+}
+.ft_text1{
+    margin-top: 44px;
+    margin-left: 60px;
+}
+.footer_top {
+    height: 516px;
+}
+.h_t {
+    margin-top: 44px;
+}
+footer {
+    height: 50px !important;
+}
+.c_btn {
+    width: 100%;
+    margin: 26px auto;
+}
+.c_p {
+    text-align: center;
+}
+.c_h2 {
+    text-align: center;
+}
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*header start*/
+.menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 10px !important;
+}
+/*banner start*/
+.banner{
+    padding: 15px 0 60px;
+}
+.b_text{
+    text-align: center;
+}
+.b_h1{
+    margin: 10px 0 10px;
+    font-size: 38px;
+    line-height: 50px;
+}
+.b_p2{
+    padding: 0 100px;
+    line-height: 30px;
+}
+.b_img{
+    margin-bottom: 50px;
+    padding: 0 150px;
+}
+/*banner end*/
+/*feature start*/
+.f_img{
+    margin-top: 25px;
+}
+.feature{
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.s_feature{
+    margin-top: 24px;
+    padding-top: 21px;
+    padding-bottom: 80px;
+}
+/*feature end*/
+/*courses start*/
+.courses {
+    padding-bottom: 60px;
+}
+.c_item {
+    padding: 25px 19px;
+ }
+ .c_li{
+    margin-right: 0px !important;
+ }
+ .c_h1{
+    font-size: 30px;
+    margin-bottom: 46px !important;
+ }
+ .c_item{
+    margin-bottom: 0px !important;
+    margin-top: 24px !important;
+ }
+ /*testimoni start*/
+ .testimonial {
+    margin-bottom: 70px;
+}
+ /*footer top*/
+ .ft_text{
+    margin-left: 110px;
+    margin-top: 0px;
+}.ft_text3{
+    margin-top: 24px;
+    margin-left: 110px;
+}
+.ft_text2{
+    margin-top: 24px;
+    margin-left: 110px;
+}
+.ft_text1{
+    margin-top: 44px;
+    margin-left: 110px;
+}
+.footer_top {
+    height: 516px;
+}
+.h_t {
+    margin-top: 44px;
+}
+footer {
+    height: 34px;
+}
+.c_btn {
+    width: 100%;
+    margin: 26px auto;
+}
+.c_p {
+    text-align: center;
+}
+.c_h2 {
+    text-align: center;
+}
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     /*feature start*/
+  .s_feature{
+    padding: 52px 15px;
+  }
+  .feature{
+    padding-bottom: 55px;
+}
+  /*feature end*/
+  /*courses start*/
+  .c_li{
+    margin-right: 0px !important;
+}
+.c_item{
+    padding: 16px 11px;
+}
+.c_btn {
+    margin: 20px 0 23px;
+    }
+    /*testimoni start*/
+.testimonial{
+    margin-bottom: 80px;
+}
+ /*footer top*/
+ .ft_text{
+    margin-top: 42px;
+}.ft_text3{
+    margin-left: 25px;
+}
+.ft_text2{
+    margin-left: 25px;
+}
+.ft_text1{
+    margin-left: 25px;
+}
+footer {
+    height: 34px;
+    }
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /*feature start*/
+  .s_feature{
+    padding: 55px 38px;
+  }
+  .feature{
+    padding-bottom: 80px;
+}
+  /*feature end*/
+ /*courses item*/
+  .c_item {
+    padding: 25px 18px;
+  }
+ /*courses end*/
+ /*footer top*/
+ .ft_text{
+    margin-top: 65px;
+}.ft_text3{
+    margin-left: 65px;
+}
+.ft_text2{
+    margin-left: 65px;
+}
+.ft_text1{
+    margin-left: 65px;
+}
+footer {
+    height: 35px;
+    }
+
+}
+
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+  /*feature start*/
+  .s_feature{
+    padding: 65px 20px;
+  }
+  /*feature end*/
+  footer {
+    height: 36px;
+    }
+}
